@@ -4,6 +4,7 @@ Control AC powered device using relay.
 File include configuration for 2 relay module, and HC05 communication.
 Choose any bluetooth app from play store and start controlling your electrical appliances.
 
+---------------------------------------
 -------Commands----------
 Send '1' to toggle relay 1.
 Send '2' to toggle relay 2
